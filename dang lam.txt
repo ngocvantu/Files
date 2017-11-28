@@ -1,0 +1,4 @@
+﻿login face: 
+	- dang nhap bang face thi truong pass de trong (hoặc mặc định)
+	- neu la tai khoan face thi lan dau thay doi mat khau khong can nhap mat khau cu
+	- gửi email bằng ajax đến backen: chỉ cần có https, phương thức post là được (an toàn)
